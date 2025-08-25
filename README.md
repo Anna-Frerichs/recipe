@@ -1,3 +1,3 @@
-# recipe
+# Guacamole recipe
 
-This is an exercise 
+This is an exercise repository.
