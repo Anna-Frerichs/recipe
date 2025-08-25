@@ -1,6 +1,7 @@
 chop avocado
 chop onion 
 chop chili
+chop tomatos
 squeeze lime 
 and salt
 and mix well
